@@ -16,10 +16,11 @@
 .main-content-right .content-control legend { 
   border-bottom: 0;
 }
-
+.main-content-right .content-control .form-group.form-margin-config-campain{
+  margin: 0 auto;
+}
 .main-content-right .content-control .form-group {
   width: 100%;
-  margin: 0;
   .list-campain-search{
     padding-left: 0;
   }

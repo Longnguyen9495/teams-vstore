@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="457d21f3-dd9d-42ab-b1ab-532861f90b51" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/setting-account.scss" afterPath="$PROJECT_DIR$/assets/scss/setting-account.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/customer/config-campain.php" afterPath="$PROJECT_DIR$/pages/customer/config-campain.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +17,31 @@
     <favorites_list name="Vstore" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="setting-account.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/setting-account.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="18" column="75" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config-campain.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/customer/config-campain.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="122" column="20" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="122" selection-end-column="20" />
+              <folding>
+                <element signature="n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,7 +68,6 @@
       <find>#container-list-item-category-detail .pagination &gt; li &gt; a</find>
       <find>.container-main-user #list_landing_content .wrapper_product .info_product p span</find>
       <find>margin-top: 45px;</find>
-      <find>margin-top: 45px;</find>
       <find>#container-list-item-category-detail .cpn-icon .vp-icon</find>
       <find>pagination</find>
       <find>.container-main-user #list_landing_content .wrapper_product .status_product .btn_product</find>
@@ -53,9 +78,10 @@
       <find>col-sm-6 form-padding-right</find>
       <find>btn btn-default</find>
       <find>form-group clearfix list-campain-first</find>
-      <find>.main-content-right .content-control .form-group</find>
       <find>modal-header</find>
       <find>.btn-default</find>
+      <find>form-horizontal</find>
+      <find>.main-content-right .content-control .form-group</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -114,13 +140,13 @@
         <option value="$PROJECT_DIR$/pages/customer/posted_landingpage.php" />
         <option value="$PROJECT_DIR$/assets/scss/posted-design.scss" />
         <option value="$PROJECT_DIR$/assets/scss/list-campagin_customer.scss" />
-        <option value="$PROJECT_DIR$/assets/scss/setting-account.scss" />
         <option value="$PROJECT_DIR$/pages/customer/list-campain.php" />
-        <option value="$PROJECT_DIR$/pages/customer/config-campain.php" />
         <option value="$PROJECT_DIR$/assets/scss/config-campain-customer.scss" />
         <option value="$PROJECT_DIR$/assets/scss/add-to-campain.scss" />
         <option value="$PROJECT_DIR$/assets/scss/header.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assets/scss/setting-account.scss" />
+        <option value="$PROJECT_DIR$/pages/customer/config-campain.php" />
       </list>
     </option>
   </component>
@@ -169,7 +195,24 @@
             <path>
               <item name="vstorehost" type="b2602c69:ProjectViewProjectNode" />
               <item name="vstorehost" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="vstorehost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vstorehost" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="vstorehost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vstorehost" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="vstorehost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vstorehost" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="customer" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -226,17 +269,18 @@
       <workItem from="1508291853210" duration="1176000" />
       <workItem from="1508293943372" duration="10983000" />
       <workItem from="1508313478176" duration="476000" />
-      <workItem from="1508314057960" duration="2404000" />
+      <workItem from="1508314057960" duration="3725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87457000" />
+    <option name="totallyTimeSpent" value="88778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25567323" sideWeight="0.49436393" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25567323" sideWeight="0.49436393" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -349,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/setting-account.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/list-campagin_customer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -440,14 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/customer/config-campain.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="74" column="68" lean-forward="false" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/category-detail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -474,6 +503,25 @@
         <state relative-caret-position="136">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/setting-account.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="18" column="75" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/customer/config-campain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="122" column="20" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="122" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -47,7 +47,7 @@
                 <div class="main-content-right col-md-9 pd-right-0">
                     <div class="content-control">
                         <form class="form-horizontal" action="">
-                            <div class="form-group">
+                            <div class="form-group form-margin-config-campain">
                                 <div class="col-sm-6 form-padding-left">
                                     <div class="col-sm-12 form-group-padding">
                                         <label>Website</label>
@@ -112,7 +112,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="form-group">
+                            <div class="form-group form-margin-config-campain">
                                 <div class="col-sm-12 button-config-campain">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Cập nhật
                                     </button>
