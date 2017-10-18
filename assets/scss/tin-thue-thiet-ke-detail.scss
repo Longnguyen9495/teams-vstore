@@ -1,0 +1,380 @@
+$color-border: #f2f2f2;
+$color-text: #333;
+
+#container-content-detail-thue-thiet-ke {
+	margin-top: 40px;
+
+	.first_content {
+		.left {
+			width: 380px;
+			float: left;
+			border: 1px solid $color-border;
+			padding: 20px;
+
+			.info_project {
+				.title {
+					font-weight: 500;
+					font-size: 20px;
+				}
+
+			}
+
+			.line {
+				margin: 10px auto;
+				width: 90%;
+				height: 1px;
+				background-color: $color-border;
+			}
+
+			.info_customer {
+				.title {
+					font-weight: 500;
+					font-size: 20px;
+				}
+
+				.img_customer {
+					img {
+						width: 74px;
+						height: 74px;
+						background-color: red;
+					}
+
+				}
+
+				.name {
+					color: #68bfe7;
+					font-weight: 500;
+					margin-bottom: 5px;
+
+					i {
+						color: #d6d6d6;
+					}
+
+				}
+
+				.position {
+					margin-bottom: 5px;
+				}
+
+				.money {
+					i {
+						width: 15px;
+						height: 15px;
+						border: 1px solid #c4c4c4;
+						background-color: #c4c4c4;
+						line-height: 14px;
+						text-align: center;
+						border-radius: 50%;
+						font-size: 9px;
+						color: #fff;
+					}
+
+				}
+
+				.item {
+					.intro {
+						color: #d6d6d6;
+						font-weight: 500;
+					}
+
+					.info {
+						font-weight: 500;
+					}
+
+					.info_time {
+						color: #68bfe7;
+					}
+
+				}
+
+			}
+
+		}
+
+		.right {
+			float: left;
+			width: 690px;
+			margin-left: 70px;
+
+			.title {
+				font-weight: 600;
+				font-size: 30px;
+			}
+
+			.tag {
+				a {
+					border: 1px solid $color-border;
+					color: #111;
+				}
+
+			}
+
+			.list {
+				margin-top: 15px;
+
+				ul {
+					padding-left: 0px;
+
+					li {
+						margin: 17px;
+
+						a {
+							color: $color-text;
+							text-decoration: none;
+						}
+
+					}
+
+				}
+
+			}
+
+		}
+
+	}
+
+	.second_content {
+		margin-top: 30px;
+
+		.title_left {
+			font-size: 25px;
+			font-weight: 500;
+			margin-left: 20px;
+		}
+
+		.left {
+			float: left;
+			width: 430px;
+			padding: 20px;
+
+			.dexuat {
+				font-weight: 500;
+
+				span {
+					color: red;
+					margin-left: 5px;
+				}
+
+			}
+
+			.price {
+				margin-top: 10px;
+				padding: 0px 10px;
+				padding-bottom: 40px;
+				border: 1px solid $color-border;
+
+				.item {
+					margin-top: 30px;
+
+					.item_price {
+						text-align: right;
+						color: #9aa1ac;
+					}
+
+					.fee {
+						color: #9aa1ac;
+					}
+
+				}
+
+			}
+
+			.dukien {
+				margin-top: 20px;
+
+				p {
+					font-size: 20px;
+					font-weight: 500;
+
+					span {
+						color: red;
+					}
+
+				}
+
+			}
+
+			.line {
+				width: 90%;
+				margin: 10px auto;
+				height: 1px;
+				background-color: $color-border;
+			}
+
+		}
+
+		.right {
+			width: 690px;
+			float: left;
+			margin-left: 20px;
+			padding: 20px;
+
+			.title {
+				font-size: 20px;
+				font-weight: 500;
+
+				span {
+					color: red;
+				}
+
+			}
+
+			.item {
+				margin: 10px 0;
+
+				.question {
+					font-weight: 500;
+
+					span {
+						color: Red;
+					}
+
+				}
+
+			}
+
+			.info {
+				margin-top: 20px;
+
+				p {
+					text-transform: uppercase;
+					font-weight: 500;
+					font-size: 17px;
+				}
+
+				.btn_info {
+					width: 285px;
+					height: 50px;
+					border: 1px solid $color-border;
+					line-height: 35px;
+					text-align: left;
+					font-size: 20px;
+					text-decoration: none;
+					color: $color-text;
+
+					i {
+						margin-left: 10px;
+						margin-right: 10px;
+					}
+
+				}
+
+				.btn_number {
+					margin-right: 76px;
+				}
+
+			}
+
+			.accept_rule {
+				margin-top: 10px;
+				padding: 20px;
+				border: 1px solid $color-border;
+
+				.btn_submit {
+					width: 100%;
+				}
+
+			}
+
+		}
+
+	}
+
+	.third_content {
+		.locgia {
+			height: 50px;
+			line-height: 50px;
+			background-color: #f5f5f5;
+
+			.select_right {
+				height: 35px;
+				margin-top: 8px;
+			}
+
+			.price {
+				font-weight: 600;
+			}
+
+		}
+
+		.wrapper_developer {
+			margin-top: 10px;
+
+			.developer {
+				border: 1px solid $color-border;
+				padding-top: 20px;
+				padding-bottom: 30px;
+				margin-top: 10px;
+
+				.ava_info {
+					img {
+						width: 90px;
+						height: 90px;
+						background-color: red;
+						margin-bottom: 10px;
+					}
+
+					.icon_star {
+						i {
+							color: #ffdc00;
+							font-size: 17px;
+						}
+
+					}
+
+					.btn_contact {
+						padding: 6px 15px;
+						color: $color-text;
+						font-weight: 500;
+					}
+
+				}
+
+				.name_skill {
+					.name {
+						font-size: 16px;
+						color: #0080c8;
+						font-weight: 500;
+
+						.icon_info {
+							font-size: 11px;
+							height: 15px;
+							width: 15px;
+							border: 1px solid #3df469;
+							border-radius: 50%;
+							line-height: 13px;
+							text-align: center;
+							display: inline-block;
+							color: #3df469;
+							vertical-align: middle;
+						}
+
+					}
+
+					.position {
+						color: #9aa1ac;
+					}
+
+				}
+
+				.income {
+					padding-top: 20px;
+
+					.intro {
+						font-weight: 600;
+					}
+
+					.intro_content {
+						color: #0080c8;
+						font-weight: 600;
+					}
+
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,104 @@
+.container-main-user {
+  .main-contents .content-control {
+    border: 1px solid #F2F2F2;
+    padding: 20px 20px;
+  }
+
+  .main-contents .pd-right-0 {
+    padding-right: 0;
+  }
+
+  .main-contents .form-control {
+    width: 70%;
+  }
+
+  .main-contents .control-label {
+    text-align: left;
+    font-weight: 400;
+  }
+
+  .main-contents .checkbox-input {
+    margin-bottom: 5px;
+  }
+
+  .main-contents .checkbox-popup .btn-control-popup {
+    position: absolute;
+    top: 0;
+    right: 24%;
+    border: 1px solid #337ab7;
+    background: transparent;
+    color: #337ab7;
+    border-radius: 50%;
+  }
+
+  .main-contents .form-control::placeholder {
+    padding: 5px;
+  }
+
+  .main-contents .modal .modal-dialog .form-control {
+    width: 100%;
+  }
+
+  .main-contents .checkbox-popup .btn-default,
+  .main-contents .btn-default {
+    background: #03A9F4;
+    border-color: #03A9F4;
+    color: white;
+  }
+
+  .main-contents .checkbox-popup .btn-primary-cancel,
+  .main-contents .btn-primary-cancel {
+    background: #f2f2f2;
+    border-color: #f2f2f2;
+    color: #111;
+  }
+
+  .main-contents .form-group .checkbox label {
+    padding-left: 0;
+    font-weight: 400;
+  }
+
+  .main-contents .btn-control-popup .icon-add-popup {
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .main-contents .tab-content-control {
+    margin-top: 30px;
+  }
+
+  .main-contents .tab-content-control .nav-tabs {
+    border-bottom: none;
+  }
+
+  .main-contents .tab-content-control .nav-tabs > li.active > a {
+    background: #f5a623;
+    border:1px solid #f5a623;
+    color: white;
+    font-weight: 400;
+    border-radius: 0;
+  }
+
+  .main-contents .tab-content-control .nav-tabs > li > a {
+    background: #f2f2f2;
+    color: #111;
+    font-weight: 400;
+    border-radius: 0px;
+  }
+
+  #htmlEditor,
+  #cssEditor,
+  #jsEditor {
+    width: 100%;
+    min-height: 400px;
+    border: 1px solid #dedede;
+    overflow: auto;
+    padding-top: 10px;
+  }
+
+  .main-content .ace_content 
+  {
+    padding-top: 10px;
+  }
+}

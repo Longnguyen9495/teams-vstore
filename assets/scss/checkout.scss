@@ -1,0 +1,80 @@
+#container-checkout .heading-check {
+  margin: 10px 0;
+}
+
+#container-checkout .check-list-booth {
+  border: 1px solid #eee;
+  padding: 20px;
+}
+
+#container-checkout .check-list-booth .checklist-heading {
+  font-size: 14px;
+  text-align: left;
+  font-family: Roboto, Arial, sans-senif;
+  font-weight: 500;
+  margin: 10px 0;
+  line-height: 30px;
+}
+
+#container-checkout .check-list-booth .checklist-price {
+  float: right;
+}
+
+#container-checkout .check-list-booth .currency {
+  font-weight: 500;
+  font-size: 14px;
+  margin-left: 2px;
+}
+
+#container-checkout .check-list-booth .vp-line-checkpayment {
+  width: 100%;
+  height: 1px;
+  background: #f8f8f8;
+  margin: 0 auto;
+}
+
+#container-checkout .check-list-booth .heading-total-price {
+  text-align: right;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#container-checkout .check-list-booth .heading-price {
+  float: right;
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+#container-checkout .check-list-booth .heading-the-rest,
+#container-checkout .check-list-booth .heading-currentnumber {
+  font-weight: 400;
+  margin: 15px 0;
+}
+
+#container-checkout .check-list-booth .button-check-price {
+  text-align: right;
+  margin: 20px 0;
+}
+
+#container-checkout .check-list-booth .btn-check-price {
+  padding: 10px 15px;
+  background: #f5a623;
+  margin: 10px 0;
+  color: white;
+  text-align: left;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+#container-checkout .check-list-booth .btn-check-cancel {
+  padding: 10px 25px;
+  background: #666;
+  margin: 10px 0;
+  color: white;
+  text-align: left;
+  border-radius: 4px;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=addlanding.css.map */

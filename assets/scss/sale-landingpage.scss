@@ -1,0 +1,114 @@
+.container-main-user {
+    .main-content-right .main-content-right-title {
+        margin: 0;
+        border-bottom: none;
+    }
+
+    .main-content-right fieldset {
+        border: 1px solid #f2f2f2;
+        margin: 15px 0;
+    }
+
+    .main-content-right fieldset legend {
+        border-bottom: none;
+        width: auto;
+        margin-left: 15px;
+        font-size: 16px;
+    }
+
+    .main-content-right fieldset .form-group {
+        height: auto;
+        width: 80%;
+        margin: 15px 0;
+    }
+
+    .main-content-right fieldset .form-group .link-image-form {
+        display: block;
+    }
+
+    .main-content-right fieldset .form-group .col-logo-image {
+        padding: 0;
+    }
+
+    .main-content-right fieldset .form-group .form-group-note {
+        margin: 5px 0;
+        color: #999;
+        font-size: 12px;
+    }
+
+    .main-content-right fieldset .form-group .control-label {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .main-content-right fieldset .form-group .form-description {
+        height: 70px;
+    }
+
+    .main-content-right fieldset .form-group .form-image,
+    .main-content-right fieldset .form-group .album-image {
+        max-width: 100%;
+    }
+
+    .main-content-right .form-group-text-establish {
+        margin-bottom: 5px;
+    }
+
+    .main-content-right .control-label-note-heading {
+        font-size: 14px;
+        font-weight: 400;
+        color: #777;
+        margin-bottom: 20px;
+    }
+
+    .main-content-right .form-pay-Spreadsheet label {
+        display: block;
+    }
+
+    .main-content-right .form-pay-Spreadsheet strong {
+        display: inline-block;
+    }
+
+    .main-content-right .form-pay-Spreadsheet .pull-left {
+        width: 30%;
+        margin: -10px 0px;
+    }
+
+    .main-content-right .form-pay-Spreadsheet .pull-left p,
+    .main-content-right .form-pay-Spreadsheet .pull-left span {
+        text-align: center;
+    }
+
+    .main-content-right .form-pay-Spreadsheet .pull-left .font-nummber-text {
+        position: relative;
+    }
+
+    .main-content-right .form-pay-Spreadsheet .pull-left .font-nummber-text span {
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+
+    .main-content-right .text-confirm {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .main-content-right .text-confirm input {
+        margin-right: 5px;
+    }
+
+    .main-content-right .form-button-btn .checkbox-popup .btn-default,
+    .main-content-right .form-button-btn .btn-default {
+        background: #03A9F4;
+        border-color: #03A9F4;
+        color: white;
+        margin-right: 10px;
+    }
+
+    .main-content-right .form-group-Spreadsheet {
+        margin: 40px 0 !important;
+    }
+
+}

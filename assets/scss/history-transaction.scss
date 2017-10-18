@@ -1,0 +1,60 @@
+.main-content-right {
+    padding-right: 0;
+}
+
+.main-content-right .currency {
+    margin-left: 3px;
+    font-weight: 400;
+}
+
+.main-content-right .content-control {
+    border: 1px solid #F2F2F2;
+    padding: 20px 20px;
+}
+
+.main-content-right .row-checkbox-inline {
+    margin: 0;
+}
+
+.main-content-right .col-checkbox-inline {
+    padding: 0;
+}
+
+.main-content-right .form-apply-button {
+    text-align: right;
+    margin-top: -5px;
+    padding: 0;
+}
+
+.main-content-right .form-apply-button .btn-default {
+    background: #03A9F4;
+    border-color: #03A9F4;
+    color: white;
+}
+
+.main-content-right .form-table .form-table-heading {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.main-content-right .form-table .form-table-note {
+    font-weight: 400;
+    text-align: left;
+    font-size: 14px;
+}
+
+.main-content-right .form-table tr > th,
+.main-content-right .form-table tr > td {
+    font-size: 13px;
+    text-align: center;
+}
+
+.main-content-right .form-table-pagination .pagination {
+    float: right;
+}
+
+.main-content-right .form-table-pagination .pagination li > a {
+    border: none;
+    font-weight: 500;
+}

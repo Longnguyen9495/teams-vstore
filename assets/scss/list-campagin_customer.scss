@@ -1,0 +1,64 @@
+.container-main-user {
+    .main-content-right .content-control {
+        border: 1px solid #F2F2F2;
+        padding: 20px 20px; }
+    .main-content-right .content-control .list-campain-search .form-control {
+        width: 45%; }
+    .main-content-right .content-control .list-campain-search .btn-default {
+        position: absolute;
+        left: 45%;
+        top: 0; }
+    .main-content-right .content-control .list-campain-add {
+        text-align: right; }
+    .main-content-right .content-control .list-campain-add .btn-default {
+        background: #03A9F4;
+        border-color: #03A9F4;
+        color: white; }
+    .main-content-right .content-control .list-campain-add legend {
+        border-bottom: none;
+        font-size: 16px;
+        font-weight: 500; }
+    .main-content-right .content-control .list-campain-add .modal-dialog {
+        text-align: left; }
+    .main-content-right .content-control .list-campain-add .modal-dialog .modal-body {
+        height: 70vh;
+        overflow-y: auto; }
+    .main-content-right .content-control .list-campain-add .modal-dialog .modal-title {
+        font-size: 20px; }
+    .main-content-right .content-control .list-campain-add .modal-dialog label {
+        font-size: 14px;
+        font-weight: 400; }
+    .main-content-right .content-control .list-campain-add .modal-dialog .input-group, .main-content-right .content-control .list-campain-add .modal-dialog .form-control.input-sm {
+        height: 34px; }
+    .main-content-right .content-control .list-campain-add .modal-dialog .form-padding-right {
+        padding-right: 0; }
+    .main-content-right .content-control .list-campain-add .modal-dialog .form-group-padding {
+        padding: 0;
+        margin-bottom: 10px; }
+    .main-content-right .content-control .posted-desinn thead tr > th {
+        text-align: center;
+        font-size: 14px; }
+    .main-content-right .content-control .posted-desinn tbody tr > td {
+        font-size: 14px;
+        text-align: center;
+        line-height: 30px; }
+    .main-content-right .content-control .posted-desinn tbody tr > td .currency {
+        font-weight: 400;
+        margin-left: 3px; }
+    .main-content-right .content-control .posted-desinn tbody tr > td .edit, .main-content-right .content-control .posted-desinn tbody tr > td .delete, .main-content-right .content-control .posted-desinn tbody tr > td .detail {
+        margin: 0 5px; }
+    .main-content-right .content-control .posted-desinn tbody tr > td .label-danger {
+        background-color: #f5a623; }
+    .main-content-right .content-control .content-table-design-left .breadcrumb {
+        margin-bottom: 0;
+        background: none;
+        list-style: none; }
+    .main-content-right .content-control .content-table-design-right {
+        text-align: right;
+        padding-right: 0}
+    .main-content-right .content-control .content-table-design-right .pagination {
+        margin: 0; }
+    .main-content-right .content-control .content-table-design-right .pagination li > a {
+        border: none;
+        font-weight: 400; }
+}

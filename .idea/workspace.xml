@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="457d21f3-dd9d-42ab-b1ab-532861f90b51" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/111.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Vstore fix.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/11122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/2017-10-12_010621.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/36929300-high-definition-wallpaper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/bootstrap.min.js.tải xuống" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(10)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(11)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(12)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(13)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(3)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(4)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(5)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(6)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(7)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(8)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/css(9)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/jquery-3.2.1.min.js.tải xuống" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/jquery-ui.min.js.tải xuống" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/js.js.tải xuống" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/localhost_files/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/wall-designer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/images/wall-designer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/addlanding/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/category.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/category/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/11122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/36929300-high-definition-wallpaper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/localhost.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/mode/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/localhost.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/pay/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/localhost.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/danhmuc/shopping-cart/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/images/2017-10-12_010621.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/images/wall-designer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/images/wall-designer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/khung/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/khung/list_landing.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/khung/style_list_landing.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/khung/style_list_landing.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/khung/style_list_landing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/banner &amp; menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/bootstrap3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css&amp;js banner-menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/11122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/12221.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/2017-10-12_010621.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/36929300-high-definition-wallpaper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/add logo image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/add-img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/localhost.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/logo-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/wall-designer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/images/wall-designer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fixwidget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/hover.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/hover.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/hover.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/indexsss.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/owl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/localhost/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/addlanding.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/category.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/config-campain.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/export-landingpage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/header.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/0b564f5cf378c20335d9ea7656f3d352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/1-2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/11122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/12221.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/12223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/1234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/140694257562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/140748510790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/2017-10-12_010621.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/21231022_1523182214439096_2533188161306513841_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/21272431_1523182817772369_3235234696603759062_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/21389209_829085977246330_1565889122_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/21397200_1408321269281795_311074150_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/36929300-high-definition-wallpaper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/Banh-trung-thu-Long-Dinh-Ca-tam-tinh-gui-trao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/Bánh 19(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/Bánh 20(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/GJ7A2191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/add logo image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/add-img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/banh-trung-thu-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/banh-trung-thu-cao-cap-long-dinh-bao-quy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/banh-trung-thu-long-dinh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/banh-trung-thu-ta-4gs-texas (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/bannermdh-1920x926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/blog1-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/blog3-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/blog4-370x251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/cach-chon-banh-trung-thu-di-bieu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/f9b978d45b93761bdca0a4520b9da590635446382175985660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/home1-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/home1-banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/home1-banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/hop1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/hop2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/hop5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/hop6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/hop7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/hop8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/icon-return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/icon-secure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/icon-shipping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/img20150911110752311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/img20170823080723545-d70ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/localhost.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/logo-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/logo1-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/logo2-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/logo3-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/logo4-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/logo5-168x93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/product01b8654bcd8b27d3a55986ab211d969fe8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/product07babed764f161057844959f946064bc6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/product174dec6d2b450f7dbd6acb9407d48f2030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/producta8a5c0992809332817f3593dced77aa6ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/productafc3401be24053f43a6958dad614ce3f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/productc4820a52d0fcec94fe1bfc232467b1413b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/productd7820fec60122c8d346768b1ec52b98a31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/qc_header_0.63193700_1406944717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/rating0 (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/rating0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/wall-designer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/images/wall-designer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/list-campagin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/list-landing-buy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/mode.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/pay.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/posted-design.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/sale-landing.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/setting-account.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/shopping-cart.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/css/sreach.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/fix 2/list-landing-buy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/fix 2/list-landing-buy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/fix 2/shopping-cart.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/fix 2/shopping-cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/font/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/addlanding.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/config-campain.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/export-landingpage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/inc-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/list-campain.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/list-landing-buy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/mode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/pay.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/posted-design.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/sale-landing.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/setting-account.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/shopping-cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/includes/sreach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team-vstore/js/owl.carousel.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Vstore" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add-img.png</find>
+      <find>add</find>
+      <find>btn</find>
+      <find>.main-content-right .content-control .form-control</find>
+      <find>.bt-content nav.nav-n2</find>
+      <find>col-sm-3 one-column column-add-item item-can-resize vp-tbl-cell-md</find>
+      <find>.bt-header .navication-breadcrumb</find>
+      <find>#content .content-right .content-right-button-cart</find>
+      <find>#content .content-left .content-list-icon</find>
+      <find>.main-content-right .content-control .form-group-link-vpage .col-sm-8 .input-sm</find>
+      <find>#content .check-list-booth .currency</find>
+      <find>.main-content-right .content-control .btn-control-popup</find>
+      <find>img</find>
+      <find>#container-list-item-category-detail .pagination &gt; li &gt; a</find>
+      <find>.container-main-user #list_landing_content .wrapper_product .info_product p span</find>
+      <find>margin-top: 45px;</find>
+      <find>margin-top: 45px;</find>
+      <find>#container-list-item-category-detail .cpn-icon .vp-icon</find>
+      <find>pagination</find>
+      <find>.container-main-user #list_landing_content .wrapper_product .status_product .btn_product</find>
+      <find>.container-main-user .container.panel</find>
+      <find>content-table-design-right col-lg-8</find>
+      <find>.container-main-user .main-content-right .content-control .content-table-design-right .pagination li &gt; a</find>
+      <find>.container-main-user .content-control .content-table-design-right .pagination li &gt; a</find>
+      <find>col-sm-6 form-padding-right</find>
+      <find>btn btn-default</find>
+      <find>form-group clearfix list-campain-first</find>
+      <find>.main-content-right .content-control .form-group</find>
+      <find>modal-header</find>
+      <find>.btn-default</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\Vstore\Vstore</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/localhost/js/js.js" />
+        <option value="$PROJECT_DIR$/Vstore/includes/setting-account.php" />
+        <option value="$PROJECT_DIR$/Vstore/css/sale-landing.css" />
+        <option value="$PROJECT_DIR$/Vstore/css/addlanding.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/sale-landing.php" />
+        <option value="$PROJECT_DIR$/Vstore/includes/export-landingpage.php" />
+        <option value="$PROJECT_DIR$/Vstore/css/export-landingpage.css" />
+        <option value="$PROJECT_DIR$/Vstore/css/setting-account.css" />
+        <option value="$PROJECT_DIR$/Vstore/css/posted-design.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/addlanding.php" />
+        <option value="$PROJECT_DIR$/khung/style_list_landing.scss" />
+        <option value="$PROJECT_DIR$/khung/css/style.css" />
+        <option value="$PROJECT_DIR$/Vstore/css/list-campagin.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/list-campain.php" />
+        <option value="$PROJECT_DIR$/Vstore/includes/posted-design.php" />
+        <option value="$PROJECT_DIR$/Vstore/css/config-campain.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/config-campain.php" />
+        <option value="$PROJECT_DIR$/Vstore/includes/sreach.php" />
+        <option value="$PROJECT_DIR$/Vstore/css/category.css" />
+        <option value="$PROJECT_DIR$/Vstore/css/sreach.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/category.php" />
+        <option value="$PROJECT_DIR$/Vstore/css/shopping-cart.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/shopping-cart.php" />
+        <option value="$PROJECT_DIR$/Vstore/css/list-landing-buy.css" />
+        <option value="$PROJECT_DIR$/Vstore/includes/list-landing-buy.php" />
+        <option value="$PROJECT_DIR$/team-vstore/css/pay.css" />
+        <option value="$PROJECT_DIR$/localhost/css/style.css" />
+        <option value="$PROJECT_DIR$/team-vstore/includes/addlanding.php" />
+        <option value="$PROJECT_DIR$/localhost/sass/style.scss" />
+        <option value="$PROJECT_DIR$/localhost/index.html" />
+        <option value="$PROJECT_DIR$/team-vstore/includes/list-landing-buy.php" />
+        <option value="$PROJECT_DIR$/team-vstore/sass/list-landing-buy.scss" />
+        <option value="$PROJECT_DIR$/team-vstore/css/list-landing-buy.css" />
+        <option value="$PROJECT_DIR$/vstore (fix)/index.php" />
+        <option value="$PROJECT_DIR$/vstore(fix)/index.php" />
+        <option value="$PROJECT_DIR$/pages/checkout.php" />
+        <option value="$PROJECT_DIR$/pages/category-detail.php" />
+        <option value="$PROJECT_DIR$/assets/scss/category.scss" />
+        <option value="$PROJECT_DIR$/pages/customer/list-landingpage-buy.php" />
+        <option value="$PROJECT_DIR$/assets/scss/list-landingpage-available.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/style-user.scss" />
+        <option value="$PROJECT_DIR$/pages/customer/posted_landingpage.php" />
+        <option value="$PROJECT_DIR$/assets/scss/posted-design.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/list-campagin_customer.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/setting-account.scss" />
+        <option value="$PROJECT_DIR$/pages/customer/list-campain.php" />
+        <option value="$PROJECT_DIR$/pages/customer/config-campain.php" />
+        <option value="$PROJECT_DIR$/assets/scss/config-campain-customer.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/add-to-campain.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/header.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="648" />
+    <option name="y" value="75" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vstorehost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vstorehost" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Vstore" />
+      <recent name="C:\xampp\htdocs\Vstore\team-vstore\sass" />
+      <recent name="C:\xampp\htdocs\Vstore\localhost\css\images" />
+      <recent name="C:\xampp\htdocs\Vstore\Vstore\css\images" />
+      <recent name="C:\xampp\htdocs\Vstore\Vstore\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457d21f3-dd9d-42ab-b1ab-532861f90b51" name="Default" comment="" />
+      <created>1507775243260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507775243260</updated>
+      <workItem from="1507775244570" duration="18859000" />
+      <workItem from="1507806680959" duration="192000" />
+      <workItem from="1507807073258" duration="42000" />
+      <workItem from="1507858596017" duration="19146000" />
+      <workItem from="1507943524266" duration="13071000" />
+      <workItem from="1508085998624" duration="1239000" />
+      <workItem from="1508116020164" duration="19654000" />
+      <workItem from="1508290833139" duration="215000" />
+      <workItem from="1508291853210" duration="1176000" />
+      <workItem from="1508293943372" duration="10983000" />
+      <workItem from="1508313478176" duration="476000" />
+      <workItem from="1508314057960" duration="1391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25567323" sideWeight="0.49436393" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19969743" sideWeight="0.5056361" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/111.html" />
+    <entry file="file://$PROJECT_DIR$/list-landing-buy.rar" />
+    <entry file="file://$PROJECT_DIR$/localhost/index.html" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style.css.map" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style_list_landing_buy.scss" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style_detail.scss" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/app.js" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style_post_new.scss" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style_index.scss" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style_developer_controller.scss" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/scss/style_customer.scss" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/__MACOSX/vstore/pages/._category-detail.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/__MACOSX/vstore/pages/._checkout.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/__MACOSX/vstore/pages/._chi-tiet-thue-thiet-ke.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/__MACOSX/vstore/pages/._preview-landing-page.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/__MACOSX/vstore/pages/._search.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/__MACOSX/vstore/pages/._landing-page-detail.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/includes/inc_footer.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/includes/inc_header.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/text.md" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/images/0b564f5cf378c20335d9ea7656f3d352.jpg" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/bundle/app.bundle.min.css" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/pages/category-detail.php" />
+    <entry file="file://$PROJECT_DIR$/vstore 2/vstore (fix)/index.php" />
+    <entry file="file://$PROJECT_DIR$/vstore(fix)/bundle/app.bundle.min.js" />
+    <entry file="file://$PROJECT_DIR$/vstore(fix)/bundle/app.bundle.min.css" />
+    <entry file="file://$PROJECT_DIR$/vstore(fix)/index.php" />
+    <entry file="file://$PROJECT_DIR$/pages/preview-landing-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="50" column="47" lean-forward="false" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/landing-page-detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/list-landingpage-buy.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1454">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/customer/list-landingpage-buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/category-detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="246" column="58" lean-forward="false" selection-start-line="246" selection-start-column="58" selection-end-line="246" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/list-landingpage-available.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="130" column="30" lean-forward="false" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/posted-design.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/setting-account.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/list-campagin_customer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/customer/posted_landingpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="30" lean-forward="false" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/customer/list-campain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="80" lean-forward="false" selection-start-line="46" selection-start-column="80" selection-end-line="46" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/style-user.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="189" column="0" lean-forward="false" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/config-campain-customer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/category.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/add-to-campain.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/123.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/inc_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/inc_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/customer/config-campain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="74" column="68" lean-forward="false" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

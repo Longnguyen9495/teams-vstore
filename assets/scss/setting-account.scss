@@ -1,0 +1,84 @@
+.main-content-right .content-information-personal {
+  font-size: 20px;
+  font-weight: 500;
+  color: #323232;
+}
+
+.main-content-right .content-control {
+  border: 1px solid #F2F2F2;
+  padding: 20px 20px;
+}
+
+.main-content-right .content-control .form-control {
+  box-shadow:none;
+}
+
+.main-content-right .content-control legend { 
+  border-bottom: 0;
+}
+
+.main-content-right .content-control .form-group {
+  width: 100%;
+  margin: 0;
+  .list-campain-search{
+    padding-left: 0;
+  }
+  .list-campain-add{
+    padding-right: 0;
+  }
+}
+
+.main-content-right .content-control .form-horizontal {
+  border-bottom: 1px solid #F2F2F2;
+  margin-bottom: 10px;
+}
+.main-content-right .content-control .form-horizontal:last-child {
+  border-bottom: none;
+}
+
+.main-content-right .content-control .form-control-link-icon {
+  position: absolute;
+  top: 0;
+  right: -3%;
+}
+
+.main-content-right .content-control .form-control-icon {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #666666;
+}
+
+.main-content-right .content-control .form-group .control-label {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+  text-align: left;
+}
+
+.main-content-right .content-control .form-group .name-control-supplier {
+  font-weight: 500;
+  color: #111;
+}
+
+.main-content-right .content-control .form-group .form-control-link-icon .form-control-icon.active {
+  color: #03a9f4;
+}
+
+.main-content-right .checkbox-popup .btn-default,
+.main-content-right .btn-default {
+  background: #03A9F4;
+  border-color: #03A9F4;
+  color: white;
+}
+
+.main-content-right .checkbox-popup .btn-primary-cancel,
+.main-content-right .btn-primary-cancel {
+  background: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #111;
+}
+
+.main-content-right .form-group #address {
+  height: 50px;
+}
