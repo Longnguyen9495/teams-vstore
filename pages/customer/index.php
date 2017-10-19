@@ -72,9 +72,14 @@
 														<div>
 															<textarea name="" rows="4" class="form-control"></textarea>
 															<p>Thêm tài liệu đính kèm</p>
-															<p class="sub_input_file">Định dạng được hỗ trợ : png , jpg , gif , psd , xls , xlsx , doc , docx , ppt , pptx , ods , odt , zip , rar</p>
-															<p class="sub_input_file">Kích thước tối đa : 10mb</p>
-															<input type="file" class="input_file">
+
+<!--															<input type="file" class="input_file">-->
+                                                            <div class="col-sm-12 div-button-file-index">
+                                                                <button class="button-file-index col-sm-4">+ Tải lên các file</button>
+                                                                <div class="col-sm-8 button-file-index-text-p">
+                                                                    <p class="sub_input_file ">Định dạng được hỗ trợ : png , jpg , gif , psd , xls , xlsx , doc , docx / tối đa 1Mb</p>
+                                                                </div>
+                                                            </div>
 														</div>
 													</div>
 													<p class="add_more">

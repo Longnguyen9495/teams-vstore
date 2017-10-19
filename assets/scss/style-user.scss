@@ -277,7 +277,32 @@ $color-text: #111;
   .wrapper_form_customer {
     border: 1px solid $color-border;
     padding: 20px;
-
+    .form-group{
+      .wrapper_input_file .div-button-file-index{
+        border: 1px dashed #999;
+        padding: 0 5px;
+        margin: 10px 0;
+        border-radius: 5px;
+        .button-file-index-text-p{
+          padding: 0;
+          .sub_input_file{
+            margin-top: 3%;
+          }
+        }
+      }
+      .wrapper_input_file .button-file-index{
+        width: auto;
+        border: 1px solid;
+        background: transparent;
+        border-radius: 4px;
+        padding: 5px 10px;
+        font-size: 14px;
+        font-weight: 500;
+        margin: 10px 5px;
+        text-align: center;
+        border-color: #999;
+      }
+    }
     button {
       width: 110px;
     }
