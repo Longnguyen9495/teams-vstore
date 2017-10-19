@@ -1,6 +1,10 @@
 $color-border: #f2f2f2;
 $color-text: #111;
-
+.btn-primary {
+  background: #03A9F4;
+  border-color: #03A9F4;
+  color: white;
+}
 #container-header-top {
   .link {
     background-color: #f2f2f2;
